@@ -1,0 +1,30 @@
+.fleta-container {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.fleta-target {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.fleta-image {
+  width: 200px;
+  object-fit: cover;
+}
+.fleta-fragment1 {
+  display: contents;
+}
+.fleta-text3 {
+  display: inline-block;
+}
+.fleta-fragment2 {
+  display: contents;
+}
+.fleta-text4 {
+  display: inline-block;
+}
